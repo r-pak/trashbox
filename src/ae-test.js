@@ -7,7 +7,9 @@
             renderer: 'svg',
             loop: true,
             autoplay: true,
-            path: './src/data.json',
+            // path: './src/data.json',
+            path:
+                'https://assets9.lottiefiles.com/datafiles/MUp3wlMDGtoK5FK/data.json',
         });
     });
 })();
